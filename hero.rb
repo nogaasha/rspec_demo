@@ -6,7 +6,7 @@ class Hero
   end  
 
   def name
-    name= @name
+    name = @name
   end  
   def power_up
      @health += 10
